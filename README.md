@@ -10,13 +10,13 @@
 
 ---
 
-## 📸 Interface Screenshots & Previews
+## 📸 Current Version Screenshots & Previews
 
-### 1. Warm Academic Research Workspace
-![ResearchAI Workspace Preview](public/screenshots/workspace_preview.png)
+### 1. Academic Research Workspace (Current Light Mode)
+![Current ResearchAI Academic Workspace](public/screenshots/current_workspace.png)
 
-### 2. 3D WebGL Knowledge Graph & Deep Analyzer
-![ResearchAI Studio Preview](public/screenshots/studio_preview.png)
+### 2. Interactive 3D WebGL Knowledge Graph
+![Interactive 3D WebGL Knowledge Graph](public/screenshots/3d_graph.png)
 
 ---
 
@@ -53,9 +53,9 @@ Research AI/
 ├── index.html                   # HTML entry point (DM Serif Display & Inter fonts)
 ├── tailwind.config.js           # Warm neutral workspace color tokens
 ├── public/
-│   └── screenshots/             # Application screenshots for GitHub README
-│       ├── workspace_preview.png
-│       └── studio_preview.png
+│   └── screenshots/             # Current application screenshots for GitHub README
+│       ├── current_workspace.png
+│       └── 3d_graph.png
 ├── src/
 │   ├── App.tsx                  # Primary workspace layout & multi-source search state
 │   ├── index.css                # Base styling & custom scrollbars
@@ -97,8 +97,8 @@ Research AI/
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone <your-repository-url>
-cd "Research AI"
+git clone https://github.com/MeshramYug/Research_AI.git
+cd Research_AI
 npm install
 ```
 
