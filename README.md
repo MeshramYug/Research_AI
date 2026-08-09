@@ -1,18 +1,27 @@
 # ResearchAI — Smart Paper & Research Intelligence Studio
 
+🚀 **Live App URL**: [https://research-ai-swart.vercel.app/](https://research-ai-swart.vercel.app/)
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19.0-cyan.svg)](https://react.dev/)
 [![Three.js](https://img.shields.io/badge/Three.js-3D_WebGL-black.svg)](https://threejs.org/)
 [![Vite](https://img.shields.io/badge/Vite-8.0-purple.svg)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-38bdf8.svg)](https://tailwindcss.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-black.svg)](https://research-ai-swart.vercel.app/)
 
 **ResearchAI** is a premium, AI-powered academic research platform designed to streamline every phase of scientific discovery: literature search, methodology analysis, gap detection, 3D relationship visualization, paper comparison, literature review generation, and AI copilot interaction.
 
 ---
 
+## 🌐 Live Web Application
+
+Access the fully deployed application live at: **[https://research-ai-swart.vercel.app/](https://research-ai-swart.vercel.app/)**
+
+---
+
 ## 📸 Current Version Screenshots & Previews
 
-### 1. Academic Research Workspace (Current Light Mode)
+### 1. Academic Research Workspace
 ![Current ResearchAI Academic Workspace](public/screenshots/current_workspace.png)
 
 ### 2. Interactive 3D WebGL Knowledge Graph
@@ -95,23 +104,17 @@ Research AI/
 
 ## 🛠️ Quick Start
 
-### 1. Clone & Install Dependencies
+### 1. Live Online Access
+Simply visit **[https://research-ai-swart.vercel.app/](https://research-ai-swart.vercel.app/)** to use the application immediately.
+
+### 2. Local Setup
 ```bash
 git clone https://github.com/MeshramYug/Research_AI.git
 cd Research_AI
 npm install
-```
-
-### 2. Run Local Development Server
-```bash
 npm run dev
 ```
 Open [http://localhost:5173/](http://localhost:5173/) in your browser.
-
-### 3. Build for Production
-```bash
-npm run build
-```
 
 ---
 
