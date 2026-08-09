@@ -10,6 +10,16 @@
 
 ---
 
+## 📸 Interface Screenshots & Previews
+
+### 1. Warm Academic Research Workspace
+![ResearchAI Workspace Preview](public/screenshots/workspace_preview.png)
+
+### 2. 3D WebGL Knowledge Graph & Deep Analyzer
+![ResearchAI Studio Preview](public/screenshots/studio_preview.png)
+
+---
+
 ## 🌟 Key Features & Highlights
 
 - **🔍 Multi-Engine Paper Search**:
@@ -42,6 +52,10 @@
 Research AI/
 ├── index.html                   # HTML entry point (DM Serif Display & Inter fonts)
 ├── tailwind.config.js           # Warm neutral workspace color tokens
+├── public/
+│   └── screenshots/             # Application screenshots for GitHub README
+│       ├── workspace_preview.png
+│       └── studio_preview.png
 ├── src/
 │   ├── App.tsx                  # Primary workspace layout & multi-source search state
 │   ├── index.css                # Base styling & custom scrollbars
